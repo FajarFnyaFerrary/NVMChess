@@ -87,7 +87,7 @@
         widget.innerHTML = `
             <div class="widget-status connected" id="widget-status-dot"></div>
             <div class="widget-header">
-                <div class="widget-title">TITAN FREE</div>
+                <div class="widget-title">NVModz Chess VIP</div>
                 <button class="widget-minimize" title="Minimize">−</button>
             </div>
             <div class="widget-body">
