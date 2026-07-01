@@ -1,4 +1,4 @@
-# Titan Chess FREE
+# NVModz VIP Chess
 
 Open-source chess analysis extension for [chess.com](https://chess.com).
 Powered by Stockfish WASM — runs entirely in your browser, no server needed.
